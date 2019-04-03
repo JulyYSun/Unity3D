@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91b64312b19460e41bce4ba3a480611f, type: 3}
+  m_Name: ManagerVarsContainer
+  m_EditorClassIdentifier: 
+  BgThemeSpriteList:
+  - {fileID: 21300000, guid: 81cb795749aefac4ea7663bc3f7f71fb, type: 3}
+  - {fileID: 21300000, guid: 274864b118ac4f54589e32e7035cd77f, type: 3}
+  - {fileID: 21300000, guid: 5feddf0396f8fd842b6a2034a343e884, type: 3}
+  - {fileID: 21300000, guid: 9c7f8abaceea58e4db628c3935ed7c4a, type: 3}
+  nextXPos: 0.554
+  nextYPos: 0.645
+  normalPlatformPre: {fileID: 1789636389328012, guid: 34e27a6818e5e7341828498a1993d8d1,
+    type: 2}
+  characterPre: {fileID: 1475111914891596, guid: b200c08c0a97f8e4fb5fdd598c3dc80c,
+    type: 2}

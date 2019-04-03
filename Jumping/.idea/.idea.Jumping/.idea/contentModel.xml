@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\asus\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_Jumping.1741176671.00" t="ExcludeRecursive" />
+    <e p="E:\Project\Unity2017.4.24\Jumping" t="IncludeRecursive">
+      <e p="Assembly-CSharp-Editor-firstpass.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Demigiant" t="Include">
+          <e p="DemiLib" t="Include">
+            <e p="DemiLib.xml" t="Include" />
+          </e>
+          <e p="DOTween" t="Include">
+            <e p="DOTween43.xml" t="Include" />
+            <e p="DOTween46.xml" t="Include" />
+            <e p="DOTween50.xml" t="Include" />
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="DOTweenPro" t="Include">
+            <e p="DOTweenAnimation.cs" t="Include" />
+            <e p="Editor" t="Include">
+              <e p="DOTweenAnimationInspector.cs" t="Include" />
+            </e>
+            <e p="readme.txt" t="Include" />
+          </e>
+          <e p="readme_DOTweenPro.txt" t="Include" />
+        </e>
+        <e p="Plugins" t="Include">
+          <e p="Editor" t="Include">
+            <e p="JetBrains" t="Include">
+              <e p="Unity3DRider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Resources" t="Include">
+          <e p="ManagerVars.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="Common" t="Include">
+            <e p="CallBack.cs" t="Include" />
+            <e p="EventCenter.cs" t="Include" />
+            <e p="EventDefine.cs" t="Include" />
+          </e>
+          <e p="Game" t="Include">
+            <e p="CameraFollow.cs" t="Include" />
+            <e p="GameManager.cs" t="Include" />
+            <e p="PlatformSpawner.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="BgTheme.cs" t="Include" />
+            <e p="GamePanel.cs" t="Include" />
+            <e p="MainPanel.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Jumping.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
